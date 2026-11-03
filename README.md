@@ -80,10 +80,22 @@ bash reproduce_hyperprove.sh
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{nguyen2026hyperprove,
-  title={HyperProve: Answer-Guided Hypergraph Expansion for Multi-Hop Question Answering},
-  author={An Phu Nguyen and Quang Dung Nguyen and Luu Hieu An and Linh Ngo Van and Trung Le and Thien Huu Nguyen},
-  url={https://arxiv.org/abs/2609.13768},
-  year={2026}
+@inproceedings{an-etal-2026-hyperprove,
+    title = "{H}yper{P}rove: Answer-Guided Hypergraph Expansion for Multi-Hop Question Answering",
+    author = "An, Nguyen Phu  and
+      Quang, Dung Nguyen  and
+      An, Luu Hieu  and
+      Van, Linh Ngo  and
+      Le, Trung  and
+      Nguyen, Thien Huu",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.emnlp-main.212/",
+    doi = "10.18653/2026.emnlp-main.212",
+    pages = "4867--4882",
+    ISBN = "979-8-89176-459-0"
 }
 ```
